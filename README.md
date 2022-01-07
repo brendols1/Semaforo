@@ -3,13 +3,9 @@
  Semáforo
  <br>
 </h1>
- <br>
-
-<h2 align="center"> Funcionalidade </h2>
-<br>
-
 <div align="center">
-<img src="./img/gif.gif" alt="image" height="425">
-![ScreenShot](https://gifyu.com/image/SSXIb)
+
+![Gif Animado](https://github.com/brendols1/Semaforo/blob/main/img/gif%20animado.gif)
+
 </div>
- <p align="center">Criado para fins de prática e estudo.<br>
+<p align="center">Criado para fins de prática e estudo.<br>
